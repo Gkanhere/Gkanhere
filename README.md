@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gaurav Kanhere
 
-I'm a **Full-Stack Web Developer** with a focus on building intelligent, user-centric web applications. Currently working as a: **Research Analyst**
+I'm a **Full-Stack Web Developer** with a focus on building intelligent, user-centric web applications.
 
 - 🔍 **Job Title Parser** – NLP-powered tool to extract structured roles and levels from raw job data and return role department  
 - 🎮 **Typing Speed Test Game** – Real-time interactive app to measure and visualize typing performance  
@@ -31,7 +31,6 @@ I'm also experienced in **B2B Lead Generation & Research Analysis**, specializin
 #### 🗃️ Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### 🧰 Tools
 
