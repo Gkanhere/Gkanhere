@@ -46,4 +46,4 @@ I'm passionate about:
 
 - ✨ Clean code & scalable architecture  
 - 📊 Data parsing & real-world automation  
-- ⚡ Frontend performance & UX
+- ⚡ Full-Stack Web Developer 
