@@ -3,7 +3,7 @@
 I'm a **Full-Stack Web Developer** with a focus on building intelligent, user-centric web applications.
 
 - 🔍 **Job Title Parser** – NLP-powered tool to extract structured roles and levels from raw job data and return role department  https://job-title-parser-com.vercel.app/
-- 🎮 **Typing Speed Test Game** – Real-time interactive app to measure and visualize typing performance  https://gkanhere.github.io/Typing-Master/
+- 🎮 **Typing Speed Test Game** – Real-time interactive app to measure and visualize typing performance  https://typing-master-iota-orpin.vercel.app/
 
 ---
 
